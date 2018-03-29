@@ -2,9 +2,10 @@
   "name": "gsignal",
   "version": "1.0.0",
   "description": "gSignal Electron App",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run test",
+    "start": "electron ."
   },
   "keywords": [
     "electron",
